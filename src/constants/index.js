@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.png";
+import project3 from "../assets/projects/Project-3.png";
 
 export const HERO_CONTENT = `I am a Result-oriented professional with a demonstrated ability in driving successful project delivery through expertise in development,
 security, and data analysis. Skilled in leading cross-functional teams, enhancing system security, and mentoring junior professionals to
